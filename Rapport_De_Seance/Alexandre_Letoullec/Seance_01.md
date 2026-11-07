@@ -4,4 +4,6 @@ Par manque de composants, notamment le refus de la commande du chassis, nous n'a
 
 Aussi, j'ai fait des recherches supplémentaires sur notre future carte IA, malheureusement, ne l'ayant pas encore, j'ai pas abouti à des choses en plus que ce qui été déjà renseigné dans la bibliographie mais au moins la prise en main de ce composant sera rapide une fois que nous l'aurons reçue.
 
-Certes le travail n'est pas été conséquent lors de cette séance à cause du manque de matériel, il sera beaucoup plus important une fois le matériel reçu.
+Et enfin, j'ai installé tout les programmes et applications nécessaires à la programmation et à l'accès software des différents composants (malgré la connexion horrible de l'endroit, le téléchargement n'était pas si lent que ça (même si long quand même), ce qui est étonnant (une box internet ou un routeur supplémentaire dans la zone serait appréciable surtout quand on sait le nombre de personnes qui travaillent sur des appareils numériques dans la zone)).
+
+Certes le travail n'est pas été conséquent lors de cette séance à cause du manque de matériel, il sera cependant beaucoup plus important une fois le matériel reçu.
