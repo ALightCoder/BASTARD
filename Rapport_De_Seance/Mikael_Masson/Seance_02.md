@@ -89,6 +89,12 @@ Chaque paramètre indique son origine dans son commentaire :
 
 Les fils ne sont modélisés sur aucun composant.
 
+<p align="center">
+  <img src="images/seance2_moteur_ai2807_fusion360.png" alt="Modèle 3D du moteur Axisflying AI2807 dans Fusion 360" width="600">
+  <br>
+  <em>Figure 1 : modèle paramétrique du moteur Axisflying AI2807 dans Fusion 360 (cloche à 8 rayons, arbre M5 fileté, embase à 4 pattes).</em>
+</p>
+
 ### 3.3 Récupération des modèles open source
 
 | Carte | Modèle récupéré | Remarque |
@@ -97,6 +103,12 @@ Les fils ne sont modélisés sur aucun composant.
 | Matek H743-SLIM | Modèle open source de la **H743-SLIM V3** | Mêmes dimensions que la V4 du projet : utilisé tel quel |
 
 Ces deux cartes n'ont donc pas besoin d'être mesurées ni redessinées.
+
+<p align="center">
+  <img src="images/seance2_rdk_x5_fusion360.png" alt="Modèle 3D open source de la carte D-Robotics RDK X5 dans Fusion 360" width="700">
+  <br>
+  <em>Figure 2 : modèle 3D open source du D-Robotics RDK X5 importé dans Fusion 360, connecteurs compris (USB-A, Ethernet, USB-C, HDMI, GPIO 40 broches).</em>
+</p>
 
 ### 3.4 Essais de soudure
 
