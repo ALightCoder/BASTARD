@@ -176,7 +176,7 @@ flowchart LR
 |---|---|
 | Compatibilité ESC de substitution | ✅ Validée |
 | Soudure des fils de puissance | ✅ Faite, ⚠️ à reprendre (aspect froid) |
-| Soudure du condensateur | ✅ Faite, ⚠️ patte à couper, sens à reconfirmer |
+| Soudure du condensateur | ✅ Faite |
 | Soudure de la borne XT60H-M | ✅ Faite |
 | Soudure du moteur sur la voie M1 | ✅ Faite, ⚠️ brins à nettoyer |
 | Nappe ESC ↔ Matek | ❌ À recâbler avant toute mise sous tension |
