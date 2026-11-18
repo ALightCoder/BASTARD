@@ -4,7 +4,8 @@
 
 ## Récupération des commandes
 
-En début de séance, j'ai fait le tour du lycée pour récupérer les commandes de matériel arrivées et les redistribuer à tout le monde, afin que chaque groupe puisse avancer sur son projet.
+En début de séance, j'ai fait le tour du campus
+pour récupérer les commandes de matériel arrivées et les redistribuer à tout le monde, afin que chaque groupe puisse avancer sur son projet.
 
 ## Modélisation 3D
 
