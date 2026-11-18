@@ -1,11 +1,8 @@
 # Rapport de séance – 18/11/2026
 
-**Durée :** 1 h 30
-
 ## Récupération des commandes
 
-En début de séance, j'ai fait le tour du campus
-pour récupérer les commandes de matériel arrivées et les redistribuer à tout le monde, afin que chaque groupe puisse avancer sur son projet.
+En début de séance, Mikael et moi avons fait le tour du campus pendant 1H30 pour récupérer les commandes de matériel arrivées et les redistribuer à tout le monde, afin que chaque groupe puisse avancer sur son projet (ce n'est bien sur pas fait exprès, nous avions fait ça dans l'epoir de trouver nos composants manquants mais en vain).
 
 ## Modélisation 3D
 
