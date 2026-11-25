@@ -19,7 +19,7 @@
 | Batteries de la radio | 2 × accus Li-ion 18650 (3,7 V nominal chacun) |
 | ESC v1 retenu | HAKRC 8B50A 4-en-1, BLHeli_S, 2–6S, 50 A continus / 60 A en pointe |
 | ESC reçu le 24 novembre | Carte marquée HK8B20I V1.2 (ESC commandé), gardé en réserve |
-| Outillage | Fer à souder, flux, tresse ou pompe à dessouder |
+| Outillage | Fer à souder, tresse à dessouder en cuivre |
 
 ## 3. Déroulé
 
